@@ -20,9 +20,11 @@ Cada persona se guarda en una **lista dentro de una matriz** con esta estructura
 # Como Usar:
 1. Clona el repositorio 
 
+```bash
 git clone https://github.com/Luxycotin/seminario_tp4
 cd seminario_tp4
 code .
+```
 
 2. Ejecuta el programa
 3. Diafruta
